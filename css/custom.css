@@ -1,0 +1,31 @@
+
+
+/*Use this for custom css/*/
+
+body { padding-left: 70px;
+	padding-right: 70px }
+
+body{
+	font-family: helvetica;
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.intro{
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+color:#505050;
+}
+
+.container2{
+	margin: 80px;
+}
+
